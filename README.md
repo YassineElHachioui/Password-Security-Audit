@@ -10,7 +10,7 @@ Se realizó una auditoría utilizando la herramienta estándar **John The Ripper
 - **Ataque:** Diccionario y Fuerza Bruta.
 - **Resultado:** Se obtuvieron credenciales de usuarios con contraseñas simples en menos de 2 minutos.
 
-![Auditoría con John The Ripper](john-ripper-crack.png)
+![Auditoría con John The Ripper](jhon.png)
 
 ---
 
@@ -20,4 +20,4 @@ Para mitigar esta vulnerabilidad, se implementaron **Políticas de Grupo (GPO)**
 2.  **Longitud:** Mínimo de 10 caracteres (aumentando exponencialmente el tiempo de crackeo).
 3.  **Bloqueo:** La cuenta se bloquea tras 3 intentos fallidos.
 
-![Política de Contraseñas Segura](windows-policy.png)
+![Política de Contraseñas Segura](longitud.png)
