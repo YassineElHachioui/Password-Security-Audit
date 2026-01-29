@@ -21,3 +21,5 @@ Para mitigar esta vulnerabilidad, se implementaron **Políticas de Grupo (GPO)**
 3.  **Bloqueo:** La cuenta se bloquea tras 3 intentos fallidos.
 
 ![Política de Contraseñas Segura](longitud.png)
+
+![aRCHIVO DE MUESTRA](Pt1_elHachioui_yassine_2425.pdf)
